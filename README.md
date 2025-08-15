@@ -18,6 +18,10 @@ devops-notes/
  │   ├─ Day2_Materials.pdf
  │   ├─ Day2_Schedule.pdf
  │   └─ Day2_Project_Folder_Setup.pdf
+ ├─ Day3/
+ │   ├─ Day3_Materials.pdf
+ │   ├─ Day3_Schedule.pdf
+ │   └─ Day3_Network_Diagnostics_Lab.pdf
  ├─ DevOps_Progress.md
  └─ README.md
 ```
@@ -31,11 +35,13 @@ devops-notes/
 |-----|-------|-----------|----------|
 | **Day 1** | Environment Setup / Подготовка среды | [PDF](Day1/Day1_Materials.pdf) | [PDF](Day1/Day1_Schedule.pdf) |
 | **Day 2** | Files & Permissions / Файлы и права доступа | [PDF](Day2/Day2_Materials.pdf) | [PDF](Day2/Day2_Schedule.pdf) |
+| **Day 3** | Networking basics & tools / Основы сетей, сетевые утилиты | [PDF](Day3/Day3_Materials.pdf) | [PDF](Day3/Day3_Schedule.pdf) |
 
 ---
 
 ## 🧪 Mini‑labs / Мини‑лабы
 - **Project Folder Setup Script** — [PDF](Day2/Day2_Project_Folder_Setup.pdf)
+- **Network Diagnostics Lab** — [PDF](Day3/Day3_Network_Diagnostics_Lab.pdf)
 
 ---
 
