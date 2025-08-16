@@ -39,7 +39,7 @@ devops-notes/
 | **Day 1** | Environment Setup / Подготовка среды | [PDF](Day1/Day1_Materials.pdf) | [PDF](Day1/Day1_Schedule.pdf) |
 | **Day 2** | Files & Permissions / Файлы и права доступа | [PDF](Day2/Day2_Materials.pdf) | [PDF](Day2/Day2_Schedule.pdf) |
 | **Day 3** | Networking basics & tools / Основы сетей, сетевые утилиты | [PDF](Day3/Day3_Materials.pdf) | [PDF](Day3/Day3_Schedule.pdf) |
-| **Day !** | Prep evening: revision Day1–3, extra practice / Подготовительный вечер: повтор Дня 1–3, доп. практика | [PDF](Prep_Evening/Prep_Evening1s.pdf) | [PDF](Prep_Evening/Prep_Evening_Schedule.pdf) |
+| **Day !** | Prep evening: revision Day1–3, extra practice / Подготовительный вечер: повтор Дня 1–3, доп. практика | [PDF](Prep_Evening/Prep_Evening1.pdf) | [PDF](Prep_Evening/Prep_Evening_Schedule1.pdf) |
 
 ---
 
